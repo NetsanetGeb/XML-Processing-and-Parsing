@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><ap:ApplicantProfile xmlns:ap="http://www.ApplicantProfile.se">
+<ap:PersonalInfo/>
+<ap:EducationInfo/>
+<ap:WorkExprienceInfo>
+<ap:Employment>
+        <ap:Role>Student Union Gender head</ap:Role>
+        <ap:StartDate>2015-10-09</ap:StartDate>
+        <ap:EndDate>2016-10-08</ap:EndDate>
+        <ap:Company>
+            <ap:Name>MIT Mu</ap:Name>
+            <ap:CompanyNumber>101010</ap:CompanyNumber>
+            <ap:PhoneNumber>25194327834</ap:PhoneNumber>
+        </ap:Company>
+    </ap:Employment>
+</ap:WorkExprienceInfo>
+</ap:ApplicantProfile>

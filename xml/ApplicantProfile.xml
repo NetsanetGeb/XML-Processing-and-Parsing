@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ap:ApplicantProfile xmlns:ap="http://www.ApplicantProfile.se">
+	<ap:PersonalInfo>
+		<ap:FirstName>Netsanet</ap:FirstName>
+		<ap:LastName>Gebretsadkan</ap:LastName>
+		<ap:PersonNumber>940823-0580</ap:PersonNumber>
+	</ap:PersonalInfo>
+	<ap:EducationInfo>
+		<ap:University>KTH</ap:University>
+		<ap:Degree>MSc in Software Engineering of Distributed Systems</ap:Degree>
+		<ap:Year>2018</ap:Year>
+		<ap:GPA>3</ap:GPA>
+		<ap:Courses>
+			<ap:Course>
+				<ap:Name> Distributed Systems, Basic Course </ap:Name>
+                                <ap:Code> ID2201 </ap:Code>
+                                <ap:Grade>4</ap:Grade>
+			</ap:Course>
+			<ap:Course>
+				 <ap:Name> Modern Methods in Software Engineering </ap:Name>
+                                <ap:Code> ID2207 </ap:Code>
+                                <ap:Grade>3</ap:Grade>
+			</ap:Course>
+                        <ap:Course>
+				 <ap:Name>Network Programming </ap:Name>
+                                <ap:Code> ID1212 </ap:Code>
+                                <ap:Grade>3</ap:Grade>
+			</ap:Course>
+                         <ap:Course>
+				 <ap:Name> Distributed Artificial Intelligence </ap:Name>
+                                <ap:Code> ID2209 </ap:Code>
+                                <ap:Grade> 4 </ap:Grade>
+			</ap:Course>
+		</ap:Courses>
+	</ap:EducationInfo>
+	<ap:WorkExprienceInfo>
+		<ap:Employment>
+			<ap:Role> Assistant Lecturer </ap:Role>
+			<ap:StartDate> 2016-07-08 </ap:StartDate>
+			<ap:EndDate> 2017-08-20 </ap:EndDate>
+			<ap:Company>
+				<ap:Name> MIT </ap:Name>
+				<ap:CompanyNumber>101010</ap:CompanyNumber>
+				<ap:PhoneNumber>25194327834</ap:PhoneNumber>
+			</ap:Company>
+		</ap:Employment>
+		<ap:Employment>
+			<ap:Role> Student Union Gender head</ap:Role>
+			<ap:StartDate>2015-10-09</ap:StartDate>
+			<ap:EndDate>2016-10-08</ap:EndDate>
+			<ap:Company>
+				<ap:Name>MIT Mu</ap:Name>
+				<ap:CompanyNumber>101010</ap:CompanyNumber>
+				<ap:PhoneNumber>25194327834</ap:PhoneNumber>
+			</ap:Company>
+		</ap:Employment>
+	</ap:WorkExprienceInfo>
+</ap:ApplicantProfile>

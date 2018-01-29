@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<e:Employee
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:e='http://www.EmploymentInfo.se'
+    xsi:schemaLocation='http://www.EmploymentInfo.se ../xsd/EmploymentRecordSchema.xsd'>
+    <e:Name>Netsanet Gebretsadkan</e:Name>
+        <e:PersonNumber>940823-0580</e:PersonNumber>
+	<e:Employment>
+		<e:CompanyName>MIT</e:CompanyName>
+		<e:Role>Assistant Lecturer</e:Role>
+		<e:StartDate> 2016-07-08 </e:StartDate>
+		<e:EndDate> 2017-08-20 </e:EndDate>
+	</e:Employment>
+	<e:Employment>
+		<e:CompanyName>MIT Mu</e:CompanyName>
+		<e:Role>Student Union Gender head</e:Role>
+		<e:StartDate>2015-10-09</e:StartDate>
+		<e:EndDate>2016-10-08</e:EndDate>
+	</e:Employment>
+</e:Employee>

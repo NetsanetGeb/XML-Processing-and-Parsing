@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<t:Transcript
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:t='http://www.Transcript.se'
+    xsi:schemaLocation='http://www.Transcript.se ../xsd/TranscriptSchema.xsd'>
+        <t:Name>Netsanet Gebretsadkan</t:Name>
+	<t:PersonNumber>940823-0580</t:PersonNumber>
+	<t:University>KTH</t:University>
+	<t:Degree>MSc in Software Engineering of Distributed Systems</t:Degree>
+	<t:Year>2018</t:Year>
+	<t:Courses>
+		<t:Course>
+                        <t:Name> Distributed Systems, Basic Course </t:Name>
+                        <t:Code> ID2201 </t:Code>
+                        <t:Grade>4</t:Grade>
+                </t:Course>
+                <t:Course>
+                         <t:Name> Modern Methods in Software Engineering </t:Name>
+                        <t:Code> ID2207 </t:Code>
+                        <t:Grade>3</t:Grade>  
+                </t:Course>
+                <t:Course>
+                         <t:Name> Network Programming </t:Name>
+                        <t:Code> ID1212 </t:Code>
+                        <t:Grade>3</t:Grade>  
+                </t:Course>
+                <t:Course>
+                        <t:Name> Distributed Artificial Intelligence </t:Name>
+                        <t:Code> ID2209 </t:Code>
+                        <t:Grade>4</t:Grade> 
+                </t:Course>
+               
+	</t:Courses>
+
+</t:Transcript>

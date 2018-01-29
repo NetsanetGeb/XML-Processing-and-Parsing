@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.ShortCv.se" elementFormDefault="qualified">
+
+	<xsd:element name="CV">
+		<xsd:complexType>
+			<xsd:sequence>
+
+				<xsd:element name="FirstName" type="xsd:string" />
+
+				<xsd:element name="LastName" type="xsd:string" />
+
+				<xsd:element name="PersonNumber">
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:string">
+							<xsd:pattern value="\d{6}-\d{4}" />
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+                                
+                                 <xsd:element name="Address" type="xsd:string"/>
+                 
+
+                               <xsd:element name="LanguageSkils" type="xsd:string"/> 
+
+                               <xsd:element name="DrivingLicence" type="xsd:string"/>
+
+                               <xsd:element name="JobApplication">
+                                   <xsd:complexType>
+                                       <xsd:sequence>
+                                           <xsd:element name="Position" type="xsd:string"/>
+                                           <xsd:element name="JobType" type="xsd:string"/>
+                                       </xsd:sequence>
+                                   </xsd:complexType>
+                               </xsd:element>
+
+                                <xsd:element name="References">
+                                   <xsd:complexType>
+                                       <xsd:sequence>
+                                           <xsd:element name="RefereeName" type="xsd:string"/>
+                                           <xsd:element name="RefereeEmail" type="xsd:string"/>
+                                             
+                                       </xsd:sequence>
+                                   </xsd:complexType>
+                               </xsd:element>
+
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c:Companies xmlns:c="http://www.CompanyInfo.se">
+	<c:Company>
+		<c:Name> MIT </c:Name>
+                <c:CompanyNumber>101010</c:CompanyNumber>
+                <c:PhoneNumber>25194327834</c:PhoneNumber>
+	</c:Company>
+	<c:Company>
+		<c:Name>MIT Mu</c:Name>
+                <c:CompanyNumber>101010</c:CompanyNumber>
+                <c:PhoneNumber>25194327834</c:PhoneNumber>
+	</c:Company>
+</c:Companies>

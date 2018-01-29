@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ap:EducationInfo xmlns:ap="http://www.ApplicantProfile.se">
+  <ap:University>KTH</ap:University>
+  <ap:Degree>MSc in Software Engineering of Distributed Systems</ap:Degree>
+  <ap:Year>2018</ap:Year>
+  <ap:GPA>3</ap:GPA>
+  <ap:Courses>
+    <ap:Course>
+      <ap:Name> Modern Methods in Software Engineering </ap:Name>
+      <ap:Code> ID2207 </ap:Code>
+      <ap:Grade>3</ap:Grade>
+    </ap:Course>
+    <ap:Course>
+      <ap:Name> Distributed Artificial Intelligence </ap:Name>
+      <ap:Code> ID2209 </ap:Code>
+      <ap:Grade>4</ap:Grade>
+    </ap:Course>
+    <ap:Course>
+      <ap:Name> Network Programming </ap:Name>
+      <ap:Code> ID1212 </ap:Code>
+      <ap:Grade>3</ap:Grade>
+    </ap:Course>
+    <ap:Course>
+      <ap:Name> Distributed Systems, Basic Course </ap:Name>
+      <ap:Code> ID2201 </ap:Code>
+      <ap:Grade>4</ap:Grade>
+    </ap:Course>
+  </ap:Courses>
+</ap:EducationInfo>

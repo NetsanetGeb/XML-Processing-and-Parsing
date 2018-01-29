@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<cv:CV
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:cv='http://www.ShortCv.se'
+    xsi:schemaLocation='http://www.ShortCv.se ../xsd/ShortCvSchema.xsd'>
+    <cv:FirstName>Netsanet</cv:FirstName>
+	<cv:LastName>Gebretsadkan</cv:LastName>
+	<cv:PersonNumber>940823-0580</cv:PersonNumber>
+        <cv:Address>Hanstavagen 49, Kista </cv:Address>
+        <cv:LanguageSkils> Tigringa, Amharic, English</cv:LanguageSkils>
+        <cv:DrivingLicence> D </cv:DrivingLicence>
+        <cv:JobApplication>
+            <cv:Position>Programmer</cv:Position>
+            <cv:JobType> Part time</cv:JobType>
+        </cv:JobApplication>
+        <cv:References>
+            <cv:RefereeName> Tedros Getu</cv:RefereeName>
+            <cv:RefereeEmail> tedrosgt2@gmail.com </cv:RefereeEmail>
+        </cv:References>
+
+</cv:CV>
